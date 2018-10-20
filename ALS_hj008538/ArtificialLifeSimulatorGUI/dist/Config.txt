@@ -1,0 +1,1 @@
+10 10 9 5 Squirtle 2 Charmander 2 Bulbasaur 2

@@ -1,0 +1,3 @@
+10 10 9 5 Squirtle 2 Charmander 2 Bulbasaur 2
+20 20 12 2 Squirtle 3 Charmander 5 Bulbasaur 3
+10 10 9 5 Squirtle 2 Charmander 2 Bulbasaur 2
